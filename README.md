@@ -1,17 +1,6 @@
-### Hi there, I'm Alvin Bauma Software  👋
+### Hi there, I'm Alvin Bauma  👋
 
-<!--
-*VianneyR4/VianneyR4* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-
-[![Website](https://www.instagram.com/softworld.dev.community/)](https://www.instagram.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/VianneyR4)
--->
-
-
-## I'm a son of God, Developer, and a Designer!!
+## I'm a Software engineer, 4 years Web developer with forward-thinking development professional bringing expertise in PHP, Java, SQL, HTML, CSS and JavaScript.!
 <!--
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!  -->
 - 🌱 I’m currently learning (everything 🤣 ...) React Native
