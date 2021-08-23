@@ -1,6 +1,6 @@
 ### Hi there, I'm Alvin Bauma  👋
 
-## I'm a Software engineer, 4 years Web developer with forward-thinking development professional bringing expertise in PHP, Java, SQL, HTML, CSS and JavaScript.!
+#### I'm a Software engineer, 4 years Web developer with forward-thinking development professional bringing expertise in PHP, Java, SQL, HTML, CSS and JavaScript.!
 <!--
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!  -->
 - 🌱 I’m currently learning (everything 🤣 ...) React Native
