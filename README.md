@@ -1,6 +1,6 @@
 ### Hi there, I'm Alvin Bauma  👋
 
-#### I'm a Software engineer, 4 years Web developer with forward-thinking development professional bringing expertise in PHP, Java, SQL, HTML, CSS and JavaScript.!
+#### I'm Fullstack Developer. Proficient in Javascrtipt, PHP, HTML and CSS, with good experience in developing modern web applications with frameworks like NodeJs, ReactJs, VueJs, Laravel and Codeigniter.
 
 #### Connect with me:
 
