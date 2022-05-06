@@ -34,27 +34,3 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-
-
-
-<br />
-<br />
-
-
-![Alvin Bauma's github stats](https://github-readme-stats.vercel.app/api?username=alvinBM&show_icons=true&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alvinBM&layout=compact)
-
-
-
-<!-- BLOG-POST-LIST:END -->
-
-<!--  ➡️ [more blog posts...](https://codestackr.com)  -->
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![Alvin Bauma's github stats](https://github-readme-stats.vercel.app/api?username=alvinBM&show_icons=true&hide_border=true)
-
-</details>
-
