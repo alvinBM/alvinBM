@@ -1,7 +1,7 @@
   
 ### Hi there, I'm Alvin Bauma  👋
 
- Hi, I'm Alvin Bauma, Fullstack Developer. Experienced software developer with 6+ years building professional and commercial applications. Eager to build innovative and edge solutions with modern technologies. Proven ability to leverage full-stack knoweledge to built interactive applications.
+ Hi, I'm Alvin Bauma, Fullstack Developer. Experienced software developer with 7+ years building professional and commercial applications. Eager to build innovative and edge solutions with modern technologies. Proven ability to leverage full-stack knoweledge to built interactive applications.
 
 #### Connect with me:
 
